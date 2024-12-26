@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    // required
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+
+    // recommended
+    "streetsidesoftware.code-spell-checker",
+    "styled-components.vscode-styled-components",
+    "wix.vscode-import-cost"
+  ]
+}
